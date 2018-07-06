@@ -39,7 +39,7 @@ module.exports = {
       gas: 3000000,
       gasPrice: 21
     }
-  }
+  },
   solc: {
     // Turns on the Solidity optimizer. For development the optimizer's
     // quite helpful, just remember to be careful, and potentially turn it
